@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0118-pascals-triangle) |
 | [0682-baseball-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0682-baseball-game) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Stack
 |  |
 | ------- |
@@ -25,4 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0118-pascals-triangle) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+## Matrix
+|  |
+| ------- |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->
