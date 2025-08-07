@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0118-pascals-triangle) |
 | [0682-baseball-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0682-baseball-game) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
@@ -30,5 +32,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0054-spiral-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 <!---LeetCode Topics End-->
