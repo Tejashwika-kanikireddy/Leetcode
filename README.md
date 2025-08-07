@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0118-pascals-triangle) |
 | [0682-baseball-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0682-baseball-game) |
 ## Stack
 |  |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
