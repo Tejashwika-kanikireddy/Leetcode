@@ -42,4 +42,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0443-string-compression) |
+| [0812-rotate-string](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
