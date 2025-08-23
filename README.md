@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0682-baseball-game) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Stack
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+## Enumeration
+|  |
+| ------- |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 <!---LeetCode Topics End-->
