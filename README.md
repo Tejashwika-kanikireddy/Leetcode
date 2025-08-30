@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0118-pascals-triangle) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
