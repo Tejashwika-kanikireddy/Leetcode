@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0679-24-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 <!---LeetCode Topics End-->
