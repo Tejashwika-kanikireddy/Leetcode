@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0682-baseball-game) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0679-24-game) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Backtracking
 |  |
