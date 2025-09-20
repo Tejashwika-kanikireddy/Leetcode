@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0118-pascals-triangle) |
 | [0498-diagonal-traverse](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0679-24-game) |
@@ -105,4 +106,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
