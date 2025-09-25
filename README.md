@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0120-triangle) |
+| [0283-move-zeroes](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0682-baseball-game) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
