@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0812-rotate-string) |
 ## String Matching
