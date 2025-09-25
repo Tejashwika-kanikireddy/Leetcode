@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0054-spiral-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0443-string-compression](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0443-string-compression) |
 ## Dynamic Programming
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0011-container-with-most-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
 |  |
