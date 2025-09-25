@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0792-binary-search) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0792-binary-search](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0792-binary-search) |
 ## Binary Tree
 |  |
 | ------- |
