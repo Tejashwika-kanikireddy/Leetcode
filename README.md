@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0812-rotate-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## String Matching
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0036-valid-sudoku) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Greedy
 |  |
 | ------- |
@@ -157,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Tejashwika-kanikireddy/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
